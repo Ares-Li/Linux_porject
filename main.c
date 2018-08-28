@@ -26,6 +26,8 @@ git commit -m 'xxxxxx'
 
 git checkout -- 'name'
 
-8/
+git remote add origin https://github.com/Ares-Li/Linux_project.git
+git push -u origin master
+*/
 
 
